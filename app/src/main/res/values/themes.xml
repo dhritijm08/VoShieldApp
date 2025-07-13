@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SafeGuard" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here -->
+
+        <!-- Primary color (optional if you use it elsewhere) -->
+        <item name="colorPrimary">#8E3A59</item>
+        <item name="colorSecondary">#AD1457</item>
+
+        <!-- Cursor and handle color -->
+        <item name="colorControlActivated">#AD1457</item>
+
+        <!-- Text highlight color -->
+        <item name="android:textColorHighlight">#F8BBD0</item>
+
+        <!-- You can optionally also override hint color here -->
+        <!-- <item name="android:textColorHint">#F8BBD0</item> -->
+    </style>
+
+    <style name="Theme.SafeGuard" parent="Base.Theme.SafeGuard" />
+</resources>

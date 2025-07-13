@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="40dp"
+    android:viewportWidth="22"
+    android:viewportHeight="22">
+
+    <!-- Head -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M12,12a5,5 0 1,0 0,-10a5,5 0 0,0 0,10z" />
+
+    <!-- Shoulders / Torso -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M3,21c0,-4.97 4.03,-9 9,-9s9,4.03 9,9H3z" />
+</vector>

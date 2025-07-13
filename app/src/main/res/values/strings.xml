@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">VoShield</string>
+    <string name="tagline">One word away</string>
+    <string name="app_logo_desc">App Logo</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="phone_hint">Enter your phone number</string>
+    <string name="signup_button">Register</string>
+    <string name="voice_recognition">🎙️</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="safe_word">Safe Word</string>
+    <string name="safety_manual">Safety Manual</string>
+    <string name="user_profile">👤 User Profile</string>
+    <string name="add_contact">➕ Add Contact</string>
+    <string name="remove_contact">❌ Remove Selected Contact</string>
+    <string name="back_button_desc">Go back</string>
+    <string name="set_safe_word">🔐 Set Your Safe Word</string>
+    <string name="enter_safe_word"> Enter Safe Word</string>
+    <string name="confirm_button_text">Confirm</string>
+    <string name="work_safety">💼 Work Safety</string>
+    <string name="work_safety_tips">
+         • Keep emergency contacts updated. \n
+         • Be aware of your surroundings. \n
+         • Avoid staying late alone.
+    </string>
+    <string name="home_safety">🏠 Home Safety</string>
+    <string name="home_safety_tips">
+         • Keep doors locked at all times. \n
+         • Avoid sharing home details with strangers. \n
+         • Install security cameras if possible.
+    </string>
+    <string name="university_safety">🎓 University Safety</string>
+    <string name="university_safety_tips">
+         • Avoid isolated areas after dark. \n
+         • Share your schedule with friends. \n
+         • Keep an emergency whistle or alarm.
+    </string>
+    <string name="online_safety">🌐 Online Safety</string>
+    <string name="online_safety_tips">
+         • Avoid sharing personal details online. \n
+         • Use strong passwords and enable 2FA. \n
+         • Do not engage with unknown accounts.
+    </string>
+    <string name="street_safety">🚶 Street Safety</string>
+    <string name="street_safety_tips">
+         • Walk in well-lit areas. \n
+         • Avoid using phones while walking alone. \n
+         • Be aware of exits in public spaces.
+    </string>
+
+    <string name="back">Back</string>
+</resources>
