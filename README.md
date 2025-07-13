@@ -6,18 +6,7 @@
 
 ---
 
-🤖 Powered by AI
-
-This project uses:
-
-🎙️ **Android Speech Recognition API**  
-  - Integrates **AI-powered speech-to-text** to convert user speech into commands.  
-  - Listens for a **custom safe word** defined by the user to initiate future emergency protocols.
-
----
-
 📲 Preview
-
 
 | Main | Signup | Login | Menu | Voice Recognition |
 |------|--------|-------|------|------------------|
@@ -26,6 +15,16 @@ This project uses:
 | Emergency Contacts | Safe Word | Safety Manual | User Profile | Edit Profile |
 |--------------------|-----------|----------------|--------------|--------------|
 | ![Contacts](screenshots/emergency_contacts.jpg) | ![SafeWord](screenshots/safeword.jpg) | ![Manual](screenshots/safety_manual.jpg) | ![Profile](screenshots/profile.jpg) | ![Edit](screenshots/edit_profile.jpg) |
+
+---
+
+🤖 Powered by AI
+
+This project uses:
+
+🎙️ **Android Speech Recognition API**  
+  - Integrates **AI-powered speech-to-text** to convert user speech into commands.  
+  - Listens for a **custom safe word** defined by the user to initiate future emergency protocols.
 
 ---
 
