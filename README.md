@@ -1,4 +1,6 @@
- VoShield: AI-Powered SOS Voice-Recognition Emergency App
+**VoShield: AI-Powered SOS Voice-Recognition Emergency App**
+
+ 🎯 Project Objective
 
 **VoShield** is an Android application that **demonstrates the use of Artificial Intelligence** through **voice recognition** for personal safety. Designed as a **portfolio project**, it showcases how AI can be used to detect voice-based SOS triggers, making real-time emergency handling more accessible.
 
@@ -17,17 +19,13 @@ This project uses:
 📲 Preview
 
 
-| Main | Signup | Login | Menu |
-|------|--------|-------|------|
-| ![Main](screenshots/main.jpg) | ![Signup](screenshots/signup.jpg) | ![Login](screenshots/login.jpg) | ![Menu](screenshots/menu.jpg) |
+| Main | Signup | Login | Menu | Voice Recognition |
+|------|--------|-------|------|------------------|
+| ![Main](screenshots/main.jpg) | ![Signup](screenshots/signup.jpg) | ![Login](screenshots/login.jpg) | ![Menu](screenshots/menu.jpg) | ![Voice](screenshots/voice_recognition.jpg) |
 
-| Voice Recognition | Emergency Contacts | Safe Word | Safety Manual |
-|------------------|--------------------|-----------|----------------|
-| ![Voice](screenshots/voice_recognition.jpg) | ![Contacts](screenshots/emergency_contacts.jpg) | ![SafeWord](screenshots/safeword.jpg) | ![Manual](screenshots/safety_manual.jpg) |
-
-| User Profile | Edit Profile |
-|--------------|--------------|
-| ![Profile](screenshots/profile.jpg) | ![Edit](screenshots/edit_profile.jpg) |
+| Emergency Contacts | Safe Word | Safety Manual | User Profile | Edit Profile |
+|--------------------|-----------|----------------|--------------|--------------|
+| ![Contacts](screenshots/emergency_contacts.jpg) | ![SafeWord](screenshots/safeword.jpg) | ![Manual](screenshots/safety_manual.jpg) | ![Profile](screenshots/profile.jpg) | ![Edit](screenshots/edit_profile.jpg) |
 
 ---
 
@@ -53,16 +51,6 @@ This project uses:
 
 ---
 
- 🎯 Project Objective
-
-> **To demonstrate the real-world application of AI — specifically voice recognition — in building socially relevant mobile apps.**
-
- Future Scope Includes:
-- Background listening for SOS safe word  
-- Emergency alert with GPS coordinates  
-- Real-time auto communication with emergency contacts  
-
----
 
 🛠️ Tech Stack
 
@@ -88,7 +76,7 @@ This project uses:
 
 🔧 How to Run
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-username/voshield.git
    cd voshield
