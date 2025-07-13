@@ -1,4 +1,4 @@
-**VoShield: AI-Powered SOS Voice-Recognition Emergency App**
+Hello there, it's Dhriti here thank you for stopping by my project here's what it is about:
 
  🎯 Project Objective
 
