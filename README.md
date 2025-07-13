@@ -19,15 +19,15 @@ This project uses:
 
 | Main | Signup | Login | Menu |
 |------|--------|-------|------|
-| ![Main](screenshots/main.png) | ![Signup](screenshots/signup.png) | ![Login](screenshots/login.png) | ![Menu](screenshots/menu.png) |
+| ![Main](screenshots/main.jpg) | ![Signup](screenshots/signup.jpg) | ![Login](screenshots/login.jpg) | ![Menu](screenshots/menu.jpg) |
 
 | Voice Recognition | Emergency Contacts | Safe Word | Safety Manual |
 |------------------|--------------------|-----------|----------------|
-| ![Voice](screenshots/voice_recognition.png) | ![Contacts](screenshots/emergency_contacts.png) | ![SafeWord](screenshots/safeword.png) | ![Manual](screenshots/safety_manual.png) |
+| ![Voice](screenshots/voice_recognition.jpg) | ![Contacts](screenshots/emergency_contacts.jpg) | ![SafeWord](screenshots/safeword.jpg) | ![Manual](screenshots/safety_manual.jpg) |
 
 | User Profile | Edit Profile |
 |--------------|--------------|
-| ![Profile](screenshots/profile.png) | ![Edit](screenshots/edit_profile.png) |
+| ![Profile](screenshots/profile.jpg) | ![Edit](screenshots/edit_profile.jpg) |
 
 ---
 
